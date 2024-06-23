@@ -8,7 +8,7 @@ Backend Developer
 - 🌱 I’m currently and always learning 
 - 📫 How to reach me: hjhaithem@gmail.com
 - 🌍 I'm based in Syria - Damasucs
-- ⚡ Fun fact: The sun always come up from the east, until it doesn't 
+- ⚡ Fun fact: The sun always come up from the east, until it doesn't
 
 ###
 
@@ -47,19 +47,6 @@ Backend Developer
   <img src="https://github-profile-trophy.vercel.app?username=hith-hj&theme=algolia&column=3&row=4&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
-###
-
-
-Hi 👋 My name is Haitham
-========================
-
-Backend dev
------------
-
-* 🌍  I'm based in Damasucs
-* ✉️  You can contact me at [hjhaithem@gmail.com](mailto:hjhaithem@gmail.com)
-* 🚀  I'm currently working on [Erp](http://mhd-nudder.com/)
-
 ### Skills
 
 
@@ -72,10 +59,10 @@ Backend dev
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/"><img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&hide=stars,prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="'s GitHub stats" /></a>
+<a href="http://www.github.com/"><img src="https://github-readme-stats.vercel.app/api?username=hith-hj&show_icons=true&hide=stars,prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="'s GitHub stats" /></a>
 
-<a href="http://www.github.com/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hith-hi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=hith-hi&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hith-hi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
