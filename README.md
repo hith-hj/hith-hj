@@ -1,11 +1,14 @@
-## Hi there 👋
-#### My nam is haitham 
+## Hello world
+### My name is Haitham 
 
+Backend Developer
+-----------
 
-- 🔭 I’m currently working as fullstack dev @ [] 
+- 🔭 I’m currently working as Fullstack dev @ [Your1Site](https://your1site.com) 
 - 🌱 I’m currently and always learning 
 - 📫 How to reach me: hjhaithem@gmail.com
-- ⚡ Fun fact: The sun always come up from the east 
+- 🌍 I'm based in Syria - Damasucs
+- ⚡ Fun fact: The sun always come up from the east, until it doesn't 
 
 ###
 
