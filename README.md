@@ -1,5 +1,4 @@
 ## Hello world
-### My name is Haitham 
 
 Backend Developer
 -----------
@@ -7,7 +6,7 @@ Backend Developer
 - 🔭 I’m currently working as Fullstack dev @ [Your1Site](https://your1site.com) 
 - 🌱 I’m currently and always learning 
 - 📫 How to reach me: hjhaithem@gmail.com
-- Portfolio : https://hith-hj.github.io/developer-portfolio/
+- 🖥 Portfolio : https://hith-hj.github.io/developer-portfolio/
 
 ###
 
