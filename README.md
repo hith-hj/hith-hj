@@ -7,8 +7,7 @@ Backend Developer
 - 🔭 I’m currently working as Fullstack dev @ [Your1Site](https://your1site.com) 
 - 🌱 I’m currently and always learning 
 - 📫 How to reach me: hjhaithem@gmail.com
-- 🌍 I'm based in Syria - Damasucs
-- ⚡ Fun fact: The sun always come up from the east, until it doesn't
+- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://hith-hj.github.io/developer-portfolio/)
 
 ###
 
